@@ -21,7 +21,7 @@ title                    : "Suren's Blogs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Surendrabikram Thapa"
-description              : "My notes, blogs, and research logs."
+description              : "My notes and blogs."
 url                      : "https://therealthapa.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
